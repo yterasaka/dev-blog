@@ -19,19 +19,6 @@
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/en/posts/my-first-post/</link>
-      <pubDate>Mon, 01 Jul 2024 21:27:19 +0200</pubDate>
-      
-      <guid>http://localhost:1313/en/posts/my-first-post/</guid>
-      
-      <description>test askdlskdl
-test1 sfjlkjal
-test2 adljlfj</description>
-      
-    </item>
-    
-    <item>
       <title>About</title>
       <link>http://localhost:1313/en/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

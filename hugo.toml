@@ -1,6 +1,5 @@
 title = "Yuki Terasaka's blog"
-baseURL = 'https://localhost:1313/'
-# baseURL = 'https://tera.onl/'
+baseURL = 'https://tera.onl/'
 
 # This is what goes in <html lang="">
 # languageCode = 'en-us'

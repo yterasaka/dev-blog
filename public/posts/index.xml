@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Yuki Terasaka&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 02 Jul 2024 21:53:19 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 22:44:39 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bundle Page 2</title>
+      <link>http://localhost:1313/posts/bundle-page-2/</link>
+      <pubDate>Tue, 02 Jul 2024 22:44:39 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/bundle-page-2/</guid>
+      
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Bundle Test</title>
       <link>http://localhost:1313/posts/bundle-test/</link>
@@ -15,17 +26,6 @@
       <guid>http://localhost:1313/posts/bundle-test/</guid>
       
       <description></description>
-      
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 01 Jul 2024 21:27:19 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      
-      <description>test 日本語のフォント 反対 真実 適用な文章を書いてみる</description>
       
     </item>
     
