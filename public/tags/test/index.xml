@@ -14,7 +14,9 @@
       
       <guid>http://localhost:1313/posts/bundle-test-en/</guid>
       
-      <description></description>
+      <description>This is a test for the bundle feature. This content is in English.
+Test This is a test for the bundle feature. This content is in English.
+Test 2 This is a test for the bundle feature. This content is in English.</description>
       
     </item>
     

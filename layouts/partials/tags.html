@@ -1,0 +1,10 @@
+{{ if .Params.tags }}
+  <div class="tags">
+    <h5>Tags:</h5>
+    <ul>
+      {{ range .Params.tags }}
+        <li><a href="{{ printf "/tags/%s" . | urlize }}">{{ . }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
