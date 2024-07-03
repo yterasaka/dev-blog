@@ -5,27 +5,16 @@
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Yuki Terasaka&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Tue, 02 Jul 2024 22:44:39 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jul 2024 22:00:09 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bundle Page 2</title>
-      <link>http://localhost:1313/posts/bundle-page-2/</link>
-      <pubDate>Tue, 02 Jul 2024 22:44:39 +0200</pubDate>
+      <title>Bundle Test En</title>
+      <link>http://localhost:1313/posts/bundle-test-en/</link>
+      <pubDate>Tue, 02 Jul 2024 22:00:09 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/bundle-page-2/</guid>
+      <guid>http://localhost:1313/posts/bundle-test-en/</guid>
       
       <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bundle Test</title>
-      <link>http://localhost:1313/posts/bundle-test/</link>
-      <pubDate>Tue, 02 Jul 2024 21:53:19 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/bundle-test/</guid>
-      
-      <description>test</description>
       
     </item>
     

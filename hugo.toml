@@ -2,12 +2,12 @@ title = "Yuki Terasaka's blog"
 baseURL = 'https://tera.onl/'
 
 # This is what goes in <html lang="">
-# languageCode = 'en-us'
-languageCode = 'ja'
+languageCode = 'en-us'
+# languageCode = 'ja'
 
 # This defines how dates are formatted
-# defaultContentLanguage = "en"
-defaultContentLanguage = 'ja'
+defaultContentLanguage = "en"
+# defaultContentLanguage = 'ja'
 
 # Enable emojis globally
 enableEmoji = true
@@ -55,7 +55,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   languageName = "English"
   languageCode = "en"
   contentDir = "content/en"
-  weight = 2
+  weight = 1
 
   [Languages.en.menu]
   [[Languages.en.menu.main]]
@@ -125,7 +125,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   languageName = "Japanese"
   languageCode = "ja"
   contentDir = "content/ja"
-  weight = 1
+  weight = 2
   
   [Languages.ja.menu]
   [[Languages.ja.menu.main]]

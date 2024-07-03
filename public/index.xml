@@ -5,27 +5,16 @@
     <link>http://localhost:1313/</link>
     <description>Recent content in Home on Yuki Terasaka&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Tue, 02 Jul 2024 22:44:39 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jul 2024 22:00:09 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bundle Page 2</title>
-      <link>http://localhost:1313/posts/bundle-page-2/</link>
-      <pubDate>Tue, 02 Jul 2024 22:44:39 +0200</pubDate>
+      <title>Bundle Test En</title>
+      <link>http://localhost:1313/posts/bundle-test-en/</link>
+      <pubDate>Tue, 02 Jul 2024 22:00:09 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/bundle-page-2/</guid>
+      <guid>http://localhost:1313/posts/bundle-test-en/</guid>
       
       <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bundle Test</title>
-      <link>http://localhost:1313/posts/bundle-test/</link>
-      <pubDate>Tue, 02 Jul 2024 21:53:19 +0200</pubDate>
-      
-      <guid>http://localhost:1313/posts/bundle-test/</guid>
-      
-      <description>test</description>
       
     </item>
     
@@ -36,9 +25,7 @@
       
       <guid>http://localhost:1313/pages/about/</guid>
       
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
+      <description>About me Hi there! I’m a front-end web developer with a background in fine arts. In university, I majored in art, and I loved it! I focused on creating works using photography. I&amp;rsquo;m so grateful that all the creativity and aesthetic sense I developed during that time have been so valuable in my current role. After graduating, I had the pleasure of working as a freelance Japanese-German translator. My passion for technology eventually led me to self-study programming, and in 2023, I started my career as a web developer.</description>
       
     </item>
     

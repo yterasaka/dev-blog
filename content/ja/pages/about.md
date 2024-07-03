@@ -4,20 +4,12 @@ description: "Hugo, the world's fastest framework for building websites"
 author: Hugo Authors
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## 私について
 
-Hugo makes use of a variety of open source projects including:
+こんにちは！私はフロントエンドメインの Web 開発者です。大学では美術を専攻し、写真や映像を用いた作品制作に情熱を注いでいました。そこで培った創造力と美的感覚は、現在の仕事にも大いに役立っています。卒業後、フリーランスの独日翻訳者として活動した後、テクノロジーへの情熱から独学でプログラミングを学び、2023 年に Web 開発者として就職することができました。現在は主にフロントエンド開発を担当しており、特に React を得意としています。
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+最近では Linux にも興味を持ち、その柔軟性と制御性を楽しんでいます。常に新しい技術を学び、スキルを向上させながら、高品質な Web アプリケーションの開発に取り組んでいます。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+このブログは、日々の開発において学んだことの備忘録です。投稿が皆様のお役に立ち、そしてインスピレーションを提供できることを願っています！
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+ご質問やフィードバックがありましたら、どうぞお気軽にご連絡ください。皆様からのご連絡を楽しみにしております。
