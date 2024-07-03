@@ -6,3 +6,5 @@ tags = []
 +++
 
 test
+
+![test](/icon.png)
