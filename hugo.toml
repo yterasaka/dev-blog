@@ -205,9 +205,3 @@ url = "https://github.com/yterasaka"
 [[params.socialIcons]]
 name = "Rss"
 url = "/index.xml"
-
-# Plausible
-theme = ["plausible-hugo"]  # Add this theme to your already existing other themes
-[params.plausible]
-  enable = true  # Whether to enable plausible tracking
-  domain = "plausible.terasaka.work"  # Plausible "domain" name/id in your dashboard

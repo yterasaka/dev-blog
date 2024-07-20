@@ -39,8 +39,13 @@
   (resources.Get "icons/favicon.svg").RelPermalink }}"> {{/* Katex support
   (enabled on specific pages). See 'helpers/katex.html' for more info. */}} {{-
   if or .Params.math .Site.Params.math }}{{ partial "helpers/katex.html" .
-  -}}{{- end -}} {{ partial "plausible_head.html" . }} {{/* Google analytics
-  script. See hugo.toml to enable/disable this. */}} {{- if hugo.IsProduction |
-  or (eq site.Params.env "production") }} {{ template
-  "_internal/google_analytics.html" . }} {{- end -}}
+  -}}{{- end -}} {{/* Google analytics script. See hugo.toml to enable/disable
+  this. */}} {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+  {{ template "_internal/google_analytics.html" . }} {{- end -}}
+
+  <script
+    defer
+    data-domain="plausible.terasaka.work"
+    src="https://plausible.io/js/script.js"
+  ></script>
 </head>
